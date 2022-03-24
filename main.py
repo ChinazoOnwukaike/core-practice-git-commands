@@ -9,7 +9,7 @@ def always_returns_true():
 >>>>>>> 041961a750efac700c991b6ff58a823151a4bfd2
 
 def example_func():
-    return "This is an example function."
+    return "This is an example function. Poppy make change to this function again "
 
 def test_always_returns_true():
     assert always_returns_true()
